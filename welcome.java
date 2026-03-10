@@ -2,6 +2,7 @@ public class welcome {
     public static void  main(String[] args)
     {
         System.out.println("ritesh here ");
+        System.out.println("hohoh");
     }
     
 }
